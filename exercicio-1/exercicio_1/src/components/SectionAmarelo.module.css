@@ -1,0 +1,9 @@
+.sectionAmarelo{
+    width: 100%;
+    height: 250px;
+    background-color: yellow;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+}

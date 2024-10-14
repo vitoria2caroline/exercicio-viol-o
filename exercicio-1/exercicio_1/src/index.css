@@ -1,0 +1,11 @@
+*{
+    padding: 0%;
+    border: 0%;
+    margin: 0%;
+}
+.fundo{
+    width: 90%;
+    height: auto;
+    background-color:brown;
+    margin: auto;
+}

@@ -1,0 +1,9 @@
+.sectionVermelho { 
+    width: 100%;
+    height: 200px;
+    background-color:darkred;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
